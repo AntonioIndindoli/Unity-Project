@@ -1,4 +1,5 @@
 # "Back Rooms"
+Please note - This repository isn't actively used and is for demonstration purposed only
 
 This project is still in development, but is in a playable state. The main gameplay revolves around escaping a randomly generated labyrinth while avoiding a monster. The monster is able to detect the player using multiple metrics including proximity to the player, whether the player is within line of sight, whether the player is in a hiding spot, or if the player is making a lot of noise. There is no way of fighting the monster which was done to make the player more fearful. Instead, the player must run away or hide. 
 
